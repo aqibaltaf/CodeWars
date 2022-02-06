@@ -9,4 +9,3 @@ The output should be two capital letters with a dot separating them.</pre>
 
 Sam Harris => S.H
 patrick feeney => P.F</pre>
-
