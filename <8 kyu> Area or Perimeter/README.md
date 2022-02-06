@@ -1,7 +1,10 @@
-<h2><a href="https://www.codewars.com/kata/5ab6538b379d20ad880000ab">Area or Perimeter</a></h2>
+<h2><a href="https://www.codewars.com/kata/576bb71bbbcf0951d5000044/">Count of positives / sum of negatives</a></h2>
 
-<pre>You are given the length and width of a 4-sided polygon. The polygon can either be a rectangle or a square.
-If it is a square, return its area. If it is a rectangle, return its perimeter.
+<pre>Given an array of integers.
 
-area_or_perimeter(6, 10) --> 32
-area_or_perimeter(3, 3) --> 9</pre>
+Return an array, where the first element is the count of positives numbers and the second element is sum of negative numbers. 0 is neither positive nor negative.
+
+If the input array is empty or null, return an empty array.</pre>
+
+<h2>Example</h2>
+<pre>For input [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15], you should return [10, -65].</pre>
