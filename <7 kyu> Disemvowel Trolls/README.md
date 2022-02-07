@@ -1,4 +1,4 @@
-<h2><a href="https://www.codewars.com/kata/52fba66badcd10859f00097e">Disemvowel Trolls</a></h2>
+<h2><a href="https://www.codewars.com/kata/5412509bd436bd33920011bc">Credit Card Mask</a></h2>
 
 <pre>Trolls are attacking your comment section!
 
